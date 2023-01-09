@@ -10,5 +10,11 @@ export const userData = [
         name: "Sports",
         username: "Playing cricket today.",
 
+    },
+    {
+        id: 3,
+        name: "clothing",
+        username: "bought some clothes today.",
+
     }
 ]
