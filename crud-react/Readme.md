@@ -1,0 +1,1 @@
+# redux core, redux/toolkit and redux-query practice.
